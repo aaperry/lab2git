@@ -1,1 +1,2 @@
 I created a new file because I do not see any employee.txt file in Lab1
+Perry, Alfredo: 11140, 4/27
